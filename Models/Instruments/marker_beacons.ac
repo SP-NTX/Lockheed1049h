@@ -10,7 +10,7 @@ OBJECT poly
 name "LampInnerWhite"
 data 8
 Tube.004
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -118,7 +118,7 @@ OBJECT poly
 name "LampInnerWhiteOn"
 data 4
 Tube
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -226,7 +226,7 @@ OBJECT poly
 name "LampMiddleAmber"
 data 8
 Tube.001
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -334,7 +334,7 @@ OBJECT poly
 name "LampMiddleAmberOn"
 data 8
 Tube.003
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -442,7 +442,7 @@ OBJECT poly
 name "LampOuterBlue"
 data 8
 Tube.002
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -550,7 +550,7 @@ OBJECT poly
 name "LampOuterBlueOn"
 data 8
 Tube.005
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -658,7 +658,7 @@ OBJECT poly
 name "LampPropRevPlacard"
 data 9
 Plane.017
-texture "marker_beacons.rgb"
+texture "marker_beacons.png"
 texrep 1 1
 crease 30.000000
 numvert 4

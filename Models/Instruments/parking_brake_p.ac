@@ -9,7 +9,7 @@ OBJECT poly
 name "LampParkingBrake"
 data 8
 Tube.001
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -117,7 +117,7 @@ OBJECT poly
 name "LampParkingBrakeOn"
 data 8
 Tube.002
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -225,7 +225,7 @@ OBJECT poly
 name "Placard"
 data 9
 Plane.001
-texture "parking_brake_p.rgb"
+texture "parking_brake_p.png"
 texrep 1 1
 crease 30.000000
 numvert 4

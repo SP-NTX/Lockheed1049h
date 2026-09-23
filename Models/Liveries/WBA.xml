@@ -6,22 +6,22 @@
     <model>
       <livery>
         <name type="string">Warner Bros. Animanics</name>
-        <texture>txt_livery_wba_fuselage.rgb</texture>
+        <texture>txt_livery_wba_fuselage.png</texture>
       </livery>
       <cowls>
-        <texture>txt_livery_wba_cowls.rgb</texture>
+        <texture>txt_livery_wba_cowls.png</texture>
       </cowls>
       <rudders>
-        <texture>txt_livery_wba_rudders.rgb</texture>
+        <texture>txt_livery_wba_rudders.png</texture>
       </rudders>
       <wing>  
-        <texture>txt_livery_wba_wing.rgb</texture>
+        <texture>txt_livery_wba_wing.png</texture>
       </wing>
       <propellers>
-        <texture>txt_livery_wba_prop1.rgb</texture>
+        <texture>txt_livery_wba_prop1.png</texture>
       </propellers>
       <propellerdisks>
-        <texture>txt_livery_wba_propblur.rgb</texture>
+        <texture>txt_livery_wba_propblur.png</texture>
       </propellerdisks>
     </model>
   </sim>

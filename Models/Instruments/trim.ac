@@ -617,7 +617,7 @@ OBJECT poly
 name "Screws"
 data 12
 Cylinder.001
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 28
@@ -799,7 +799,7 @@ OBJECT poly
 name "Trim.FaceBack"
 data 12
 Cylinder.027
-texture "trim.rgb"
+texture "trim.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -866,7 +866,7 @@ OBJECT poly
 name "Trim.NeedleAil"
 data 9
 Plane.012
-texture "trim.rgb"
+texture "trim.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -887,7 +887,7 @@ OBJECT poly
 name "Trim.NeedleEl"
 data 9
 Plane.013
-texture "trim.rgb"
+texture "trim.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -908,7 +908,7 @@ OBJECT poly
 name "Trim.NeedleEl2"
 data 9
 Plane.014
-texture "trim.rgb"
+texture "trim.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -929,7 +929,7 @@ OBJECT poly
 name "Trim.NeedleRud"
 data 9
 Plane.015
-texture "trim.rgb"
+texture "trim.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -950,7 +950,7 @@ OBJECT poly
 name "Trim.Face"
 data 12
 Cylinder.028
-texture "trim.rgb"
+texture "trim.png"
 texrep 1 1
 crease 30.000000
 numvert 9

@@ -9,7 +9,7 @@ OBJECT poly
 name "LampPropRev1"
 data 4
 Tube
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -117,7 +117,7 @@ OBJECT poly
 name "LampPropRev2"
 data 8
 Tube.002
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -225,7 +225,7 @@ OBJECT poly
 name "LampPropRev3"
 data 8
 Tube.004
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -333,7 +333,7 @@ OBJECT poly
 name "LampPropRev4"
 data 8
 Tube.001
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -441,7 +441,7 @@ OBJECT poly
 name "LampPropRevOn1"
 data 4
 Tube
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -549,7 +549,7 @@ OBJECT poly
 name "LampPropRevOn2"
 data 8
 Tube.002
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -657,7 +657,7 @@ OBJECT poly
 name "LampPropRevOn3"
 data 8
 Tube.004
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -765,7 +765,7 @@ OBJECT poly
 name "LampPropRevOn4"
 data 8
 Tube.001
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -873,7 +873,7 @@ OBJECT poly
 name "LampPropRevPlacard"
 data 9
 Plane.017
-texture "prop_reversing.rgb"
+texture "prop_reversing.png"
 texrep 1 1
 crease 30.000000
 numvert 4

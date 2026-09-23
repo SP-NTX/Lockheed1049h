@@ -8,7 +8,7 @@ OBJECT poly
 name "Prop1"
 data 8
 Mesh.018
-texture "txt_livery_prop1.rgb"
+texture "txt_livery_prop1.png"
 texrep 1 1
 crease 30.000000
 numvert 162
@@ -1362,7 +1362,7 @@ OBJECT poly
 name "Prop2"
 data 8
 Mesh.022
-texture "txt_livery_prop1.rgb"
+texture "txt_livery_prop1.png"
 texrep 1 1
 crease 30.000000
 numvert 162
@@ -2716,7 +2716,7 @@ OBJECT poly
 name "Prop3"
 data 8
 Mesh.032
-texture "txt_livery_prop1.rgb"
+texture "txt_livery_prop1.png"
 texrep 1 1
 crease 30.000000
 numvert 162
@@ -4070,7 +4070,7 @@ OBJECT poly
 name "Prop4"
 data 8
 Mesh.013
-texture "txt_livery_prop1.rgb"
+texture "txt_livery_prop1.png"
 texrep 1 1
 crease 30.000000
 numvert 162
@@ -5424,7 +5424,7 @@ OBJECT poly
 name "PropBlurFast1"
 data 12
 Cylinder.379
-texture "txt_propblur.rgb"
+texture "txt_propblur.png"
 texrep 1 1
 crease 30.000000
 numvert 54
@@ -5740,7 +5740,7 @@ OBJECT poly
 name "PropBlurFast2"
 data 12
 Cylinder.376
-texture "txt_propblur.rgb"
+texture "txt_propblur.png"
 texrep 1 1
 crease 30.000000
 numvert 54
@@ -6056,7 +6056,7 @@ OBJECT poly
 name "PropBlurFast3"
 data 12
 Cylinder.380
-texture "txt_propblur.rgb"
+texture "txt_propblur.png"
 texrep 1 1
 crease 30.000000
 numvert 54
@@ -6372,7 +6372,7 @@ OBJECT poly
 name "PropBlurFast4"
 data 12
 Cylinder.382
-texture "txt_propblur.rgb"
+texture "txt_propblur.png"
 texrep 1 1
 crease 30.000000
 numvert 54
@@ -6688,7 +6688,7 @@ OBJECT poly
 name "PropBlurSlow1"
 data 12
 Cylinder.378
-texture "txt_propblur.rgb"
+texture "txt_propblur.png"
 texrep 1 1
 crease 30.000000
 numvert 48
@@ -6872,7 +6872,7 @@ OBJECT poly
 name "PropBlurSlow2"
 data 12
 Cylinder.377
-texture "txt_propblur.rgb"
+texture "txt_propblur.png"
 texrep 1 1
 crease 30.000000
 numvert 48
@@ -7056,7 +7056,7 @@ OBJECT poly
 name "PropBlurSlow3"
 data 12
 Cylinder.381
-texture "txt_propblur.rgb"
+texture "txt_propblur.png"
 texrep 1 1
 crease 30.000000
 numvert 48
@@ -7240,7 +7240,7 @@ OBJECT poly
 name "PropBlurSlow4"
 data 12
 Cylinder.383
-texture "txt_propblur.rgb"
+texture "txt_propblur.png"
 texrep 1 1
 crease 30.000000
 numvert 48

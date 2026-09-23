@@ -8,7 +8,7 @@ OBJECT poly
 name "Placard"
 data 9
 Plane.001
-texture "swplate_voradf.rgb"
+texture "swplate_voradf.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -29,7 +29,7 @@ OBJECT poly
 name "PlacardAlpha"
 data 5
 Plane
-texture "swplate_voradf_a.rgb"
+texture "swplate_voradf_a.png"
 texrep 1 1
 crease 30.000000
 numvert 4

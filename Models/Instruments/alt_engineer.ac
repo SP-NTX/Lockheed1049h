@@ -617,7 +617,7 @@ OBJECT poly
 name "Screws"
 data 12
 Cylinder.077
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 28
@@ -799,7 +799,7 @@ OBJECT poly
 name "ALTeng.FacePressure"
 data 12
 Cylinder.081
-texture "altpres.rgb"
+texture "altpres.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -866,7 +866,7 @@ OBJECT poly
 name "ALTeng.Needle1"
 data 9
 Plane.046
-texture "alt.rgb"
+texture "alt.png"
 texrep 1 1
 crease 30.000000
 numvert 17
@@ -948,7 +948,7 @@ OBJECT poly
 name "ALTeng.Needle2"
 data 9
 Plane.047
-texture "alt.rgb"
+texture "alt.png"
 texrep 1 1
 crease 30.000000
 numvert 17
@@ -1030,7 +1030,7 @@ OBJECT poly
 name "ALTeng.Needle3"
 data 9
 Plane.048
-texture "alt.rgb"
+texture "alt.png"
 texrep 1 1
 crease 30.000000
 numvert 20
@@ -1123,7 +1123,7 @@ OBJECT poly
 name "ALTeng.Face"
 data 12
 Cylinder.082
-texture "alt.rgb"
+texture "alt.png"
 texrep 1 1
 crease 30.000000
 numvert 9

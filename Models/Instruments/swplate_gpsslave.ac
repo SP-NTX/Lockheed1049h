@@ -10,7 +10,7 @@ name "Placard"
 data 9
 Plane.001
 crease 30.0
-texture "swplate_voradf.rgb"
+texture "swplate_voradf.png"
 numvert 4
 0 0.039 0.039
 0 0.039 -0.039
@@ -30,7 +30,7 @@ name "PlacardAlpha"
 data 5
 Plane
 crease 30.0
-texture "swplate_gpsslave_a.rgb"
+texture "swplate_gpsslave_a.png"
 numvert 4
 0.0005 0.039 0.039
 0.0005 0.039 -0.039

@@ -6,22 +6,22 @@
     <model>
       <livery>
         <name type="string">O Galego Itinerante</name>
-        <texture>txt_livery_fuselage_OIG.rgb</texture>
+        <texture>txt_livery_fuselage_OIG.png</texture>
       </livery>
       <cowls>
-        <texture>txt_livery_cowls_OIG.rgb</texture>
+        <texture>txt_livery_cowls_OIG.png</texture>
       </cowls>
       <rudders>
-        <texture>txt_livery_rudders_OIG.rgb</texture>
+        <texture>txt_livery_rudders_OIG.png</texture>
       </rudders>
       <wing>
-        <texture>txt_livery_wing_OIG.rgb</texture>
+        <texture>txt_livery_wing_OIG.png</texture>
       </wing>
       <propellers>
-        <texture>txt_livery_prop1_OIG.rgb</texture>
+        <texture>txt_livery_prop1_OIG.png</texture>
       </propellers>
       <propellerdisks>
-        <texture>txt_propblur_OIG.rgb</texture>
+        <texture>txt_propblur_OIG.png</texture>
       </propellerdisks>
     </model>
   </sim>

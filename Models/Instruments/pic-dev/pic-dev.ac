@@ -2867,7 +2867,7 @@ name "Screws"
 loc 0 -0.069949 -0
 data 6
 Screws
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000001
 numvert 14
@@ -2964,7 +2964,7 @@ name "crs.set"
 loc 0 0.062886 -0.003003
 data 7
 crs.set
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 45.000001
 numvert 32

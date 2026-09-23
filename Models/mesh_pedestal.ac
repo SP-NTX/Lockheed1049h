@@ -9,7 +9,7 @@ kids 50
 OBJECT poly
 name "AileronBooster"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 64
 -15.5952940 0.8898070 0.0931060
@@ -1231,7 +1231,7 @@ kids 0
 OBJECT poly
 name "AileronTabCursor"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_pedtabs.rgb"
+texture "txt_cockpit_pedtabs.png"
 texrep 1 1
 numvert 140
 -15.1783047 0.5468710 0.0035710
@@ -1922,7 +1922,7 @@ kids 0
 OBJECT poly
 name "AileronTabCursorFace"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 26
 -15.1783390 0.5961100 0.0544370
@@ -2012,7 +2012,7 @@ kids 0
 OBJECT poly
 name "AileronTabNeedle"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 3
 -15.1792116 0.5465700 0.0542730
@@ -2029,7 +2029,7 @@ kids 0
 OBJECT poly
 name "APKnobHdg"
 loc 0.0000100 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 161
 -15.2247429 0.6672160 -0.0674070
@@ -2670,7 +2670,7 @@ kids 0
 OBJECT poly
 name "APKnobPitch"
 loc 0.0000000 -0.0002600 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 128
 -15.2501698 0.7037630 -0.1108630
@@ -3246,7 +3246,7 @@ kids 0
 OBJECT poly
 name "ElBoosterBracket"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 38
 -15.3437967 0.5383210 0.1316770
@@ -3447,7 +3447,7 @@ kids 0
 OBJECT poly
 name "ElectricElevatorTab"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 42
 -15.6335564 0.8554340 -0.0541810
@@ -3733,7 +3733,7 @@ kids 0
 OBJECT poly
 name "ElevatorBooster"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 80
 -15.5390873 0.1575930 0.1580670
@@ -10957,7 +10957,7 @@ kids 0
 OBJECT poly
 name "EmerBrakeLever"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 104
 -15.1395979 0.3454220 0.0047230
@@ -11324,7 +11324,7 @@ kids 0
 OBJECT poly
 name "FlapLever"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 56
 -15.6286507 0.9155490 -0.1279350
@@ -11524,7 +11524,7 @@ kids 0
 OBJECT poly
 name "KnobPedFP"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 47
 -15.3530397 0.7556280 -0.0221080
@@ -11747,7 +11747,7 @@ kids 0
 OBJECT poly
 name "KnobPedWW"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 47
 -15.3530397 0.7556280 0.0452560
@@ -11970,7 +11970,7 @@ kids 0
 OBJECT poly
 name "LandingGearLever"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 42
 -15.1699333 0.3642550 -0.0575010
@@ -12256,7 +12256,7 @@ kids 0
 OBJECT poly
 name "MainThrottle1"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 64
 -15.2966614 0.9154390 0.0673950
@@ -12510,7 +12510,7 @@ kids 0
 OBJECT poly
 name "MainThrottle2"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 64
 -15.3124361 0.8854688 0.0493412
@@ -12764,7 +12764,7 @@ kids 0
 OBJECT poly
 name "MainThrottle3"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 64
 -15.3124361 0.8854688 0.0218514
@@ -13018,7 +13018,7 @@ kids 0
 OBJECT poly
 name "MainThrottle4"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 64
 -15.3124361 0.8854688 -0.0028088
@@ -13272,7 +13272,7 @@ kids 0
 OBJECT poly
 name "ParkingBrakeLeverL"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 46
 -15.9314213 0.5187140 0.1496530
@@ -13515,7 +13515,7 @@ kids 0
 OBJECT poly
 name "ParkingBrakeLeverR"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 47
 -15.9314213 0.5187140 -0.1525090
@@ -13759,7 +13759,7 @@ kids 0
 OBJECT poly
 name "ParkingBrakeSupportL"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 33
 -15.5535240 0.5392780 0.1317050
@@ -13869,7 +13869,7 @@ kids 0
 OBJECT poly
 name "ParkingBrakeSupportR"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 33
 -15.5535240 0.5392780 -0.1700280
@@ -13979,7 +13979,7 @@ kids 0
 OBJECT poly
 name "ParkingBrakeTubeL"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 64
 -16.0013866 0.5171780 0.1490160
@@ -14219,7 +14219,7 @@ kids 0
 OBJECT poly
 name "ParkingBrakeTubeR"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 52
 -16.0013866 0.5171780 -0.1531460
@@ -14447,7 +14447,7 @@ kids 0
 OBJECT poly
 name "PedestalDrum"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 498
 -15.4241590 0.8193740 0.1302960
@@ -16503,7 +16503,7 @@ kids 0
 OBJECT poly
 name "PedestalDrumCyl"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 14
 -15.4260588 0.8072360 0.1272510
@@ -16567,7 +16567,7 @@ kids 0
 OBJECT poly
 name "PedestalMain"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 255
 -15.2007189 0.6551620 -0.0213800
@@ -17953,7 +17953,7 @@ kids 0
 OBJECT poly
 name "PedestalShelf"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details_5.rgb"
+texture "txt_cockpit_details_5.png"
 texrep 1 1
 numvert 20
 -15.3240261 0.7467520 -0.1121070
@@ -18016,7 +18016,7 @@ kids 0
 OBJECT poly
 name "PedestalShelfText"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details_5a.rgb"
+texture "txt_cockpit_details_5a.png"
 texrep 1 1
 numvert 4
 -15.3240261 0.7472520 -0.1121070
@@ -18035,7 +18035,7 @@ kids 0
 OBJECT poly
 name "PropPitch"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 60
 -15.5971823 0.8752370 -0.0834110
@@ -18395,7 +18395,7 @@ kids 0
 OBJECT poly
 name "ReverseLock"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 64
 -15.5911713 0.8815220 -0.0362540
@@ -18649,7 +18649,7 @@ kids 0
 OBJECT poly
 name "ReverseThrottle1"
 loc 0.0108681 -0.0192109 -0.0020214
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 64
 -15.4395428 0.9364901 0.0704625
@@ -18903,7 +18903,7 @@ kids 0
 OBJECT poly
 name "ReverseThrottle2"
 loc 0.0108681 -0.0192109 -0.0251604
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 64
 -15.4395428 0.9364901 0.0704625
@@ -19157,7 +19157,7 @@ kids 0
 OBJECT poly
 name "ReverseThrottle3"
 loc 0.0108681 -0.0192109 -0.0598343
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 64
 -15.4395428 0.9364901 0.0805696
@@ -19411,7 +19411,7 @@ kids 0
 OBJECT poly
 name "ReverseThrottle4"
 loc 0.0108681 -0.0192109 -0.0828786
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 64
 -15.4395428 0.9364901 0.0805696
@@ -19665,7 +19665,7 @@ kids 0
 OBJECT poly
 name "RudderBooster"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 64
 -15.5952940 0.8898070 0.1144920
@@ -20750,7 +20750,7 @@ kids 0
 OBJECT poly
 name "RudderTabCursor"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_pedtabs.rgb"
+texture "txt_cockpit_pedtabs.png"
 texrep 1 1
 numvert 140
 -15.3123035 0.7364490 0.1053030
@@ -21441,7 +21441,7 @@ kids 0
 OBJECT poly
 name "RudderTabCursorFace"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 26
 -15.2630653 0.7364140 0.0544370
@@ -21531,7 +21531,7 @@ kids 0
 OBJECT poly
 name "RudderTabNeedle"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 3
 -15.3126049 0.7355440 0.0546020
@@ -21548,7 +21548,7 @@ kids 0
 OBJECT poly
 name "ServoLeverAileron"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 58
 -15.1530991 0.3388520 0.0395710
@@ -21794,7 +21794,7 @@ kids 0
 OBJECT poly
 name "ServoLeverElevator"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 66
 -15.1547508 0.3399360 0.0776490
@@ -22076,7 +22076,7 @@ kids 0
 OBJECT poly
 name "ServoLeverRudder"
 loc 0.0000000 0.0000000 0.0000000
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 66
 -15.1534595 0.3390750 0.0569530
@@ -22358,7 +22358,7 @@ kids 0
 OBJECT poly
 name "sockle.000"
 loc -15.9519291 0.3798720 -0.0873650
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 38
 0.6550910 0.3211720 -0.0084390
@@ -22518,7 +22518,7 @@ kids 0
 OBJECT poly
 name "sockle.001"
 loc -15.9472561 0.3765750 -0.1148120
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 38
 0.6516910 0.3241470 0.0509320
@@ -22678,7 +22678,7 @@ kids 0
 OBJECT poly
 name "switch.000"
 loc -15.8723249 0.3762070 0.0802870
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 274
 0.5805440 0.3264940 -0.1709880
@@ -24832,7 +24832,7 @@ kids 0
 OBJECT poly
 name "switch.001"
 loc -15.8720684 0.3763870 0.1125720
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 274
 0.5805440 0.3264940 -0.1709880

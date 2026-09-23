@@ -9,7 +9,7 @@ OBJECT poly
 name "LampGndRdr05Red"
 data 8
 Tube.009
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -117,7 +117,7 @@ OBJECT poly
 name "LampGndRdr10Yellow"
 data 8
 Tube.005
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -225,7 +225,7 @@ OBJECT poly
 name "LampGndRdr20Amber"
 data 8
 Tube.008
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -333,7 +333,7 @@ OBJECT poly
 name "LampGndRdr05RedOn"
 data 8
 Tube.009
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -441,7 +441,7 @@ OBJECT poly
 name "LampGndRdr10YellowOn"
 data 8
 Tube.005
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -549,7 +549,7 @@ OBJECT poly
 name "LampGndRdr20AmberOn"
 data 8
 Tube.008
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16

@@ -617,7 +617,7 @@ OBJECT poly
 name "Screws"
 data 12
 Cylinder.074
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 28
@@ -799,7 +799,7 @@ OBJECT poly
 name "AmpsDCAPU.Face"
 data 12
 Cylinder.073
-texture "airtemp.rgb"
+texture "airtemp.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -866,7 +866,7 @@ OBJECT poly
 name "AmpsDCAPU.FaceBack"
 data 12
 Cylinder.072
-texture "amps_dc_apu.rgb"
+texture "amps_dc_apu.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -933,7 +933,7 @@ OBJECT poly
 name "AmpsDCAPU.Needle"
 data 9
 Plane.044
-texture "amps_dc_apu.rgb"
+texture "amps_dc_apu.png"
 texrep 1 1
 crease 30.000000
 numvert 5

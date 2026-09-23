@@ -683,7 +683,7 @@ OBJECT poly
 name "Screws"
 data 12
 Cylinder.101
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 14
@@ -779,7 +779,7 @@ OBJECT poly
 name "MDI.Card"
 data 12
 Cylinder.097
-texture "compass_mdi.rgb"
+texture "compass_mdi.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -846,7 +846,7 @@ OBJECT poly
 name "MDI.HdgBug"
 data 9
 Plane.063
-texture "compass_mdi.rgb"
+texture "compass_mdi.png"
 texrep 1 1
 crease 30.000000
 numvert 6
@@ -874,7 +874,7 @@ OBJECT poly
 name "MDI.Face"
 data 12
 Cylinder.098
-texture "compass_mdi_face.rgb"
+texture "compass_mdi_face.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -941,7 +941,7 @@ OBJECT poly
 name "MDI.Knob"
 data 12
 Cylinder.102
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -1049,7 +1049,7 @@ OBJECT poly
 name "MDI.KnobHdg"
 data 12
 Cylinder.103
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -1157,7 +1157,7 @@ OBJECT poly
 name "MDI.Needle"
 data 9
 Plane.064
-texture "compass_mdi_face.rgb"
+texture "compass_mdi_face.png"
 texrep 1 1
 crease 30.000000
 numvert 18

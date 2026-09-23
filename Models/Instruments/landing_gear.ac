@@ -9,7 +9,7 @@ OBJECT poly
 name "LampLeft"
 data 8
 Tube.009
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -117,7 +117,7 @@ OBJECT poly
 name "LampNose"
 data 8
 Tube.005
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -225,7 +225,7 @@ OBJECT poly
 name "LampRight"
 data 8
 Tube.008
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -333,7 +333,7 @@ OBJECT poly
 name "LampUnlocked"
 data 8
 Tube.010
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -441,7 +441,7 @@ OBJECT poly
 name "LampLeftOn"
 data 8
 Tube.009
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -549,7 +549,7 @@ OBJECT poly
 name "LampNoseOn"
 data 8
 Tube.005
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -657,7 +657,7 @@ OBJECT poly
 name "LampRightOn"
 data 8
 Tube.008
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -765,7 +765,7 @@ OBJECT poly
 name "LampUnlockedOn"
 data 8
 Tube.010
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -873,7 +873,7 @@ OBJECT poly
 name "Placard"
 data 9
 Plane.019
-texture "landing_gear.rgb"
+texture "landing_gear.png"
 texrep 1 1
 crease 30.000000
 numvert 4

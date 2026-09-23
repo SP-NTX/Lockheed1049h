@@ -23,7 +23,7 @@ name "Blender_export__mesh_cockpit.ac"
 kids 207
 OBJECT poly
 name "Avionics"
-texture "txt_cockpit_details_6.rgb"
+texture "txt_cockpit_details_6.png"
 texrep 1 1
 numvert 32
 -13.5602388 1.3106270 0.6307850
@@ -230,7 +230,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Books"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 56
 -13.5810528 -0.0337120 0.6342660
@@ -538,7 +538,7 @@ refs 4
 kids 0
 OBJECT poly
 name "CockpitDoor"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 8
 -13.3863621 0.1649730 0.2507470
@@ -588,7 +588,7 @@ refs 4
 kids 0
 OBJECT poly
 name "CompassBox"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 28
 -15.4659376 1.3527510 -0.0275770
@@ -824,7 +824,7 @@ refs 4
 kids 0
 OBJECT poly
 name "ConsoleCopilot"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 80
 -15.2970028 0.7882480 -0.9138520
@@ -1446,7 +1446,7 @@ refs 4
 kids 0
 OBJECT poly
 name "ConsolePilot"
-texture "txt_cockpit_details_4.rgb"
+texture "txt_cockpit_details_4.png"
 texrep 1 1
 numvert 80
 -14.9412680 0.7929080 1.0098920
@@ -2068,7 +2068,7 @@ refs 4
 kids 0
 OBJECT poly
 name "ConsolePilotGlow"
-texture "txt_cockpit_details_4a.rgb"
+texture "txt_cockpit_details_4a.png"
 texrep 1 1
 numvert 8
 -14.9655619 0.8902330 0.9440670
@@ -2097,7 +2097,7 @@ refs 4
 kids 0
 OBJECT poly
 name "CrossFeedSta"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 101
 -14.5820570 0.1517180 -0.7824470
@@ -2788,7 +2788,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngFuelPlacards"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 60
 -13.9834814 1.3882000 -0.5935550
@@ -2960,7 +2960,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngFuelSelect1"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 32
 -14.0269861 0.7641180 -0.8589020
@@ -3181,7 +3181,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngFuelSelect2"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 32
 -14.0058069 0.7641180 -0.8589020
@@ -3402,7 +3402,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngFuelSelect3"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 32
 -13.9740601 0.7641180 -0.8589020
@@ -3623,7 +3623,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngFuelSelect4"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 32
 -13.9528809 0.7641180 -0.8589020
@@ -3844,7 +3844,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngineerDeck"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 100
 -14.5362616 -0.0516520 -1.1109940
@@ -4315,7 +4315,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngineerDeckLv1"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 297
 -14.4980497 0.7010870 -1.0243460
@@ -6465,7 +6465,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngineerDeckLv2"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 28
 -14.0426826 0.7015000 -1.0243590
@@ -6640,7 +6640,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngineerPanel"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 15
 -14.5569096 1.2596411 -0.7781350
@@ -6731,7 +6731,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngMixture1"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 48
 -14.1540251 0.7709810 -0.8684280
@@ -7050,7 +7050,7 @@ refs 3
 kids 0
 OBJECT poly
 name "EngMixture2"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 48
 -14.1222897 0.7716020 -0.8516790
@@ -7369,7 +7369,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngMixture3"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 48
 -14.0922098 0.7716020 -0.8516790
@@ -7688,7 +7688,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngMixture4"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 48
 -14.0783195 0.7709810 -0.8684280
@@ -8007,7 +8007,7 @@ refs 3
 kids 0
 OBJECT poly
 name "EngPanel1"
-texture "txt_cockpit_EngPanel1.rgb"
+texture "txt_cockpit_EngPanel1.png"
 texrep 1 1
 numvert 4
 -14.5566473 0.7009600 -0.8637310
@@ -8025,7 +8025,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngPitch"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 32
 -14.4853630 0.7709810 -0.8684280
@@ -8246,7 +8246,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngPlacards"
-texture "txt_cockpit_eng_labels.rgb"
+texture "txt_cockpit_eng_labels.png"
 texrep 1 1
 numvert 8
 -14.5354815 1.2834110 -0.7427480
@@ -8275,7 +8275,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngSupercharger1"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 48
 -14.2736292 0.7679440 -1.0526810
@@ -8594,7 +8594,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngSupercharger2"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 48
 -14.2597389 0.7513410 -1.0549780
@@ -8913,7 +8913,7 @@ refs 3
 kids 0
 OBJECT poly
 name "EngSupercharger3"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 48
 -14.2295923 0.7513410 -1.0549780
@@ -9232,7 +9232,7 @@ refs 3
 kids 0
 OBJECT poly
 name "EngSupercharger4"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 48
 -14.1978569 0.7679440 -1.0526810
@@ -9551,7 +9551,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngThrottle1"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 32
 -14.4135923 0.7939620 -0.8491450
@@ -9772,7 +9772,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngThrottle2"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 32
 -14.3924131 0.7939620 -0.8491450
@@ -9993,7 +9993,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngThrottle3"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 32
 -14.3606663 0.7939620 -0.8491450
@@ -10214,7 +10214,7 @@ refs 4
 kids 0
 OBJECT poly
 name "EngThrottle4"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 32
 -14.3394871 0.7939620 -0.8491450
@@ -10435,7 +10435,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FlightDeck"
-texture "txt_flightdeck_3.rgb"
+texture "txt_flightdeck_3.png"
 texrep 1 1
 numvert 30
 -15.4520292 0.1733990 -0.1800020
@@ -10612,7 +10612,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FlightDeckA"
-texture "txt_flightdeck_1.rgb"
+texture "txt_flightdeck_1.png"
 texrep 1 1
 numvert 52
 -15.2384052 1.3714200 -0.6413990
@@ -10959,7 +10959,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FlightDeckB"
-texture "txt_flightdeck_1.rgb"
+texture "txt_flightdeck_1.png"
 texrep 1 1
 numvert 50
 -15.5445461 0.9285450 -0.7829750
@@ -11252,7 +11252,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FlightDeckC"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 93
 -16.2036037 0.9351320 -0.0000040
@@ -11827,7 +11827,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FlightDeckD"
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 numvert 62
 -13.8620844 -0.0344540 -1.2272190
@@ -12118,7 +12118,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FlightDeckWinFrame"
-texture "txt_flightdeck_2.rgb"
+texture "txt_flightdeck_2.png"
 texrep 1 1
 numvert 82
 -15.2384052 1.3714200 -0.6403990
@@ -12473,7 +12473,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FlightDeckWinInsets"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 104
 -15.2384043 1.3714200 -0.6414020
@@ -12780,7 +12780,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FuelCutoff1"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 32
 -14.7791510 1.5677620 0.0981810
@@ -13001,7 +13001,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FuelCutoff2"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 32
 -14.7791510 1.5677620 0.0244310
@@ -13222,7 +13222,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FuelCutoff3"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 32
 -14.7791510 1.5677620 -0.0454440
@@ -13443,7 +13443,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FuelCutoff4"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 32
 -14.7791510 1.5677620 -0.1189100
@@ -13664,7 +13664,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FuelCutoffDrum"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 228
 -14.6765423 1.6427170 0.1381710
@@ -15411,7 +15411,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FuelDump12"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 32
 -14.5490017 1.6492850 0.0826420
@@ -15632,7 +15632,7 @@ refs 4
 kids 0
 OBJECT poly
 name "FuelDump34"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 32
 -14.5489655 1.6492620 -0.0464570
@@ -15853,7 +15853,7 @@ refs 4
 kids 0
 OBJECT poly
 name "HoodConsole"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 86
 -15.4653912 1.1097350 -0.0275770
@@ -19346,7 +19346,7 @@ refs 4
 kids 0
 OBJECT poly
 name "LampACBus3"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 -14.7157946 0.8645720 -0.7827620
@@ -19451,7 +19451,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampACBus3.001"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 -14.6825705 0.8645720 -0.7827620
@@ -19556,7 +19556,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampACBus3.002"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 -14.7494764 0.8645720 -0.7827620
@@ -19661,7 +19661,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampACBus3.003"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 -14.7831583 0.8645720 -0.7827620
@@ -19766,7 +19766,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampGenWarn1OH"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 -14.7885780 0.9764480 -0.7827620
@@ -19871,7 +19871,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampGenWarn1R"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 -14.7684927 0.9764480 -0.7827620
@@ -19976,7 +19976,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampGenWarn2OH"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 -14.7482491 0.9764480 -0.7827620
@@ -20081,7 +20081,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampGenWarn3OH"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 -14.7076406 0.9764480 -0.7827620
@@ -20186,7 +20186,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampGenWarn3R"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 -14.6873970 0.9764480 -0.7827620
@@ -20291,7 +20291,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampGenWarn4OH"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 -14.6666679 0.9764480 -0.7827620
@@ -20396,7 +20396,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampGenWarn4R"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 -14.6469088 0.9764480 -0.7827620
@@ -20501,7 +20501,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampGenWarnAPU"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 -14.5820551 0.9764480 -0.7827620
@@ -20606,7 +20606,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampGenWarnR"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 -14.7280054 0.9764480 -0.7827620
@@ -20711,7 +20711,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampGrndPwr"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 -14.7466440 0.9250830 -0.7826500
@@ -20816,7 +20816,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampGrndPwrOn"
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 numvert 16
 -14.7466440 0.9250830 -0.7826500
@@ -20921,7 +20921,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampPressFail1"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 -0.0616360 -0.0053640 -0.0004810
@@ -21026,7 +21026,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampPressFail2"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 -0.0166360 -0.0053640 -0.0004810
@@ -21131,7 +21131,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampPressFail3"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 0.0293640 -0.0053640 -0.0004810
@@ -21236,7 +21236,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampPressFail4"
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 numvert 16
 0.0743640 -0.0053640 -0.0004810
@@ -21341,7 +21341,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampPressFailOn1"
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 numvert 16
 -0.0616360 -0.0053640 -0.0004810
@@ -21446,7 +21446,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampPressFailOn2"
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 numvert 16
 -0.0166360 -0.0053640 -0.0004810
@@ -21551,7 +21551,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampPressFailOn3"
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 numvert 16
 0.0293640 -0.0053640 -0.0004810
@@ -21656,7 +21656,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LampPressFailOn4"
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 numvert 16
 0.0743640 -0.0053640 -0.0004810
@@ -21761,7 +21761,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LvrCrossFeed1"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 48
 -14.6959200 0.2334150 -0.6483720
@@ -22080,7 +22080,7 @@ refs 4
 kids 0
 OBJECT poly
 name "LvrCrossFeed2"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 48
 -14.7050190 0.2193380 -0.6620510
@@ -22399,7 +22399,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LvrCrossFeed3"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 48
 -14.7050190 0.2193380 -0.6850120
@@ -22718,7 +22718,7 @@ refs 3
 kids 0
 OBJECT poly
 name "LvrCrossFeed4"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 48
 -14.6959200 0.2334150 -0.7167470
@@ -23037,7 +23037,7 @@ refs 4
 kids 0
 OBJECT poly
 name "LvrTankC"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 52
 -14.7078562 0.2779620 -0.5960010
@@ -23388,7 +23388,7 @@ refs 4
 kids 0
 OBJECT poly
 name "ManualBox"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 16
 -13.4334412 -0.0500000 0.7084150
@@ -23474,7 +23474,7 @@ refs 4
 kids 0
 OBJECT poly
 name "MJBno0"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 4
 -14.5579996 1.3563920 -0.7826990
@@ -23492,7 +23492,7 @@ refs 4
 kids 0
 OBJECT poly
 name "MJBno1"
-texture "txt_cockpit_MJBno1.rgb"
+texture "txt_cockpit_MJBno1.png"
 texrep 1 1
 numvert 4
 -14.8271580 1.2083750 -0.7826990
@@ -23510,7 +23510,7 @@ refs 4
 kids 0
 OBJECT poly
 name "MJBno2"
-texture "txt_cockpit_MJBno2.rgb"
+texture "txt_cockpit_MJBno2.png"
 texrep 1 1
 numvert 4
 -14.8271580 0.6729900 -0.7826990
@@ -23528,7 +23528,7 @@ refs 4
 kids 0
 OBJECT poly
 name "MJBno2a"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 4
 -14.8271580 0.5333330 -0.7826990
@@ -23546,7 +23546,7 @@ refs 4
 kids 0
 OBJECT poly
 name "MJBno3"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 4
 -14.8271570 0.1733940 -0.7826990
@@ -23564,7 +23564,7 @@ refs 4
 kids 0
 OBJECT poly
 name "MJBsta"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 8
 -14.5579996 -0.0516520 -1.0523570
@@ -23600,7 +23600,7 @@ refs 4
 kids 0
 OBJECT poly
 name "PanelMain"
-texture "txt_panel_main.rgb"
+texture "txt_panel_main.png"
 texrep 1 1
 numvert 113
 -15.6495848 0.9849850 0.5815000
@@ -24332,7 +24332,7 @@ refs 3
 kids 0
 OBJECT poly
 name "OxyTanks"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 222
 -14.0481005 0.4605160 1.0224220
@@ -25893,7 +25893,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Panel.OH.Radio"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 20
 -14.9378033 1.6149811 -0.2297610
@@ -26039,7 +26039,7 @@ refs 4
 kids 0
 OBJECT poly
 name "PanelArchPad"
-texture "txt_cockpit_leather.rgb"
+texture "txt_cockpit_leather.png"
 texrep 1 1
 numvert 234
 -15.4901419 1.1452900 0.1742500
@@ -27736,7 +27736,7 @@ refs 4
 kids 0
 OBJECT poly
 name "PanelFEGenFieldEmer"
-texture "txt_cockpit_MJBno1.rgb"
+texture "txt_cockpit_MJBno1.png"
 texrep 1 1
 numvert 4
 -14.6715965 0.9548490 -0.7794650
@@ -27754,7 +27754,7 @@ refs 4
 kids 0
 OBJECT poly
 name "PanelHood"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 46
 -15.4824753 0.9358130 0.7848790
@@ -27989,7 +27989,7 @@ refs 3
 kids 0
 OBJECT poly
 name "PanelHoodArch"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 128
 -15.4824514 0.9580250 0.7789920
@@ -28614,7 +28614,7 @@ refs 4
 kids 0
 OBJECT poly
 name "PanelOHSwitches"
-texture "txt_cockpit_details_3.rgb"
+texture "txt_cockpit_details_3.png"
 texrep 1 1
 numvert 8
 -14.7995396 1.6024070 -0.1884290
@@ -28664,7 +28664,7 @@ refs 4
 kids 0
 OBJECT poly
 name "PanelOHSwitchesGlow"
-texture "txt_cockpit_details_3a.rgb"
+texture "txt_cockpit_details_3a.png"
 texrep 1 1
 numvert 4
 -14.7995195 1.6023160 -0.1884290
@@ -28682,7 +28682,7 @@ refs 4
 kids 0
 OBJECT poly
 name "PedalCPL"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 36
 -15.8576431 0.3466480 -0.3411940
@@ -28900,7 +28900,7 @@ refs 4
 kids 0
 OBJECT poly
 name "PedalCPR"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 36
 -15.8576431 0.3466480 -0.6121940
@@ -29118,7 +29118,7 @@ refs 4
 kids 0
 OBJECT poly
 name "PedalPL"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 36
 -15.8576431 0.3466480 0.5938070
@@ -29336,7 +29336,7 @@ refs 4
 kids 0
 OBJECT poly
 name "PedalPR"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 36
 -15.8576431 0.3466480 0.3228060
@@ -29554,7 +29554,7 @@ refs 4
 kids 0
 OBJECT poly
 name "PedalRails"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 240
 -16.0219822 0.2670540 0.3204670
@@ -30881,7 +30881,7 @@ refs 4
 kids 0
 OBJECT poly
 name "RadioShelving_1"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 168
 -13.3854208 1.0011801 0.4135870
@@ -31693,7 +31693,7 @@ refs 4
 kids 0
 OBJECT poly
 name "SeatCP"
-texture "txt_cockpit_details_2.rgb"
+texture "txt_cockpit_details_2.png"
 texrep 1 1
 numvert 402
 -15.2428751 0.2150870 -0.5754650
@@ -34587,7 +34587,7 @@ refs 4
 kids 0
 OBJECT poly
 name "SeatEngineer"
-texture "txt_cockpit_details_2.rgb"
+texture "txt_cockpit_details_2.png"
 texrep 1 1
 numvert 156
 -14.0425072 0.2829420 -0.3695910
@@ -35827,7 +35827,7 @@ refs 4
 kids 0
 OBJECT poly
 name "SeatEngSupport"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 104
 -14.2343063 0.3045820 -0.5283350
@@ -36295,7 +36295,7 @@ refs 4
 kids 0
 OBJECT poly
 name "SeatJump"
-texture "txt_cockpit_details_2.rgb"
+texture "txt_cockpit_details_2.png"
 texrep 1 1
 numvert 156
 -14.1289797 0.2829420 0.3582410
@@ -37584,7 +37584,7 @@ refs 4
 kids 0
 OBJECT poly
 name "SeatJumpSupport"
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 numvert 104
 -14.2343063 0.3045820 0.5290680
@@ -38052,7 +38052,7 @@ refs 4
 kids 0
 OBJECT poly
 name "SeatP"
-texture "txt_cockpit_details_2.rgb"
+texture "txt_cockpit_details_2.png"
 texrep 1 1
 numvert 402
 -15.2428751 0.2150870 0.3565350
@@ -40946,7 +40946,7 @@ refs 4
 kids 0
 OBJECT poly
 name "SeatRails"
-texture "txt_cockpit_rail.rgb"
+texture "txt_cockpit_rail.png"
 texrep 1 1
 numvert 128
 -14.1320791 -0.0265070 -0.1782330
@@ -52349,7 +52349,7 @@ refs 4
 kids 0
 OBJECT poly
 name "YokeBoots"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 40
 -15.6044865 0.1733920 -0.4187360
@@ -52630,7 +52630,7 @@ refs 4
 kids 0
 OBJECT poly
 name "YokeColumnCP"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 135
 -15.4563751 0.7336240 -0.5108340
@@ -53626,7 +53626,7 @@ refs 4
 kids 0
 OBJECT poly
 name "YokeColumnP"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 135
 -15.4563751 0.7336240 0.4193750
@@ -54622,7 +54622,7 @@ refs 4
 kids 0
 OBJECT poly
 name "YokeCP"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 448
 -15.4643850 0.8411740 -0.4957090
@@ -57988,7 +57988,7 @@ refs 4
 kids 0
 OBJECT poly
 name "YokeP"
-texture "txt_cockpit_details.rgb"
+texture "txt_cockpit_details.png"
 texrep 1 1
 numvert 448
 -15.4643850 0.8411740 0.4346870

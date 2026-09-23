@@ -10,7 +10,7 @@ OBJECT poly
 name "Screws"
 data 12
 Cylinder.088
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 28
@@ -800,7 +800,7 @@ OBJECT poly
 name "OilPress.Face"
 data 8
 Cylinder
-texture "amps_dc_face.rgb"
+texture "amps_dc_face.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -867,7 +867,7 @@ OBJECT poly
 name "OilPress.FaceBack"
 data 12
 Cylinder.089
-texture "oilpress2.rgb"
+texture "oilpress2.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -934,7 +934,7 @@ OBJECT poly
 name "OilPress.Needle1"
 data 9
 Plane.044
-texture "oilpress2.rgb"
+texture "oilpress2.png"
 texrep 1 1
 crease 30.000000
 numvert 5
@@ -962,7 +962,7 @@ OBJECT poly
 name "OilPress.Needle2"
 data 5
 Plane
-texture "oilpress2.rgb"
+texture "oilpress2.png"
 texrep 1 1
 crease 30.000000
 numvert 5

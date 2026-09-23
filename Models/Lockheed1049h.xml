@@ -151,7 +151,7 @@
     <object-name>LGNDoorFF</object-name>
     <property-base>sim/model/livery</property-base>
     <texture-prop>texture</texture-prop>
-    <texture>txt_livery_fuselage.rgb</texture>
+    <texture>txt_livery_fuselage.png</texture>
   </animation>
   <animation>
     <type>material</type>
@@ -167,7 +167,7 @@
     <object-name>CowlFlap4R</object-name>
     <property-base>sim/model/cowls</property-base>
     <texture-prop>texture</texture-prop>
-    <texture>txt_livery_cowls.rgb</texture>
+    <texture>txt_livery_cowls.png</texture>
   </animation>
   <animation>
     <type>material</type>
@@ -179,7 +179,7 @@
     <object-name>RudderTrimR</object-name>
     <property-base>sim/model/rudders</property-base>
     <texture-prop>texture</texture-prop>
-    <texture>txt_livery_rudders.rgb</texture>
+    <texture>txt_livery_rudders.png</texture>
   </animation>
   <animation>
     <type>material</type>
@@ -202,7 +202,7 @@
     <object-name>LGmainRDoorAR</object-name>
     <property-base>sim/model/wing</property-base>
     <texture-prop>texture</texture-prop>
-    <texture>txt_livery_wing.rgb</texture>
+    <texture>txt_livery_wing.png</texture>
   </animation>
   <animation>
     <type>material</type>
@@ -220,7 +220,7 @@
   <animation>
     <type>shader</type>
     <shader>chrome</shader>
-    <texture>Models/txt_glass.rgb</texture>
+    <texture>Models/txt_glass.png</texture>
     <object-name>GlassCockpit</object-name>
     <object-name>GlassCabin</object-name>
     <object-name>DoorCrewWin</object-name>

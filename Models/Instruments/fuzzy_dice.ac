@@ -7,7 +7,7 @@ OBJECT poly
 name "Dice"
 data 8
 Cube.027
-texture "fuzzy_dice.rgb"
+texture "fuzzy_dice.png"
 texrep 1 1
 crease 30.000000
 numvert 33

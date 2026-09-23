@@ -617,7 +617,7 @@ OBJECT poly
 name "Screws"
 data 12
 Cylinder.065
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 28
@@ -799,7 +799,7 @@ OBJECT poly
 name "ClockEng.Face"
 data 12
 Cylinder.070
-texture "clock.rgb"
+texture "clock.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -866,7 +866,7 @@ OBJECT poly
 name "ClockEng.Hour"
 data 9
 Plane.041
-texture "clock.rgb"
+texture "clock.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -912,7 +912,7 @@ OBJECT poly
 name "ClockEng.Minute"
 data 9
 Plane.042
-texture "clock.rgb"
+texture "clock.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -958,7 +958,7 @@ OBJECT poly
 name "ClockEng.Second"
 data 9
 Plane.043
-texture "clock.rgb"
+texture "clock.png"
 texrep 1 1
 crease 30.000000
 numvert 10

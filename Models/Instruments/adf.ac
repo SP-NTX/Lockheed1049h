@@ -7,7 +7,7 @@ name "Blender_export__adf.ac"
 kids 13
 OBJECT poly
 name "ActDigit1"
-texture "digits.rgb"
+texture "digits.png"
 texrep 1 1
 numvert 4
 0.0001930 0.0058060 0.0439250
@@ -25,7 +25,7 @@ refs 4
 kids 0
 OBJECT poly
 name "ActDigit2"
-texture "digits.rgb"
+texture "digits.png"
 texrep 1 1
 numvert 4
 0.0001940 0.0058060 0.0326810
@@ -43,7 +43,7 @@ refs 4
 kids 0
 OBJECT poly
 name "ActDigit3"
-texture "digits.rgb"
+texture "digits.png"
 texrep 1 1
 numvert 4
 0.0001940 0.0058060 0.0214370
@@ -61,7 +61,7 @@ refs 4
 kids 0
 OBJECT poly
 name "ActKnob1"
-texture "txt_knobs.rgb"
+texture "txt_knobs.png"
 texrep 1 1
 numvert 33
 0.0000000 -0.0055750 0.0454250
@@ -309,7 +309,7 @@ refs 4
 kids 0
 OBJECT poly
 name "ActKnob2"
-texture "txt_knobs.rgb"
+texture "txt_knobs.png"
 texrep 1 1
 numvert 33
 0.0100000 -0.0078030 0.0431970
@@ -557,7 +557,7 @@ refs 4
 kids 0
 OBJECT poly
 name "Panel"
-texture "adf.rgb"
+texture "adf.png"
 texrep 1 1
 numvert 8
 0.0000000 0.0311500 -0.0728750
@@ -614,7 +614,7 @@ refs 4
 kids 0
 OBJECT poly
 name "StdbyDigit1"
-texture "digits.rgb"
+texture "digits.png"
 texrep 1 1
 numvert 4
 0.0001930 0.0058060 -0.0323040
@@ -632,7 +632,7 @@ refs 4
 kids 0
 OBJECT poly
 name "StdbyDigit2"
-texture "digits.rgb"
+texture "digits.png"
 texrep 1 1
 numvert 4
 0.0001940 0.0058060 -0.0435480
@@ -650,7 +650,7 @@ refs 4
 kids 0
 OBJECT poly
 name "StdbyDigit3"
-texture "digits.rgb"
+texture "digits.png"
 texrep 1 1
 numvert 4
 0.0001940 0.0058060 -0.0547920
@@ -668,7 +668,7 @@ refs 4
 kids 0
 OBJECT poly
 name "StdbyKnob1"
-texture "txt_knobs.rgb"
+texture "txt_knobs.png"
 texrep 1 1
 numvert 33
 0.0000000 -0.0055750 -0.0305750
@@ -916,7 +916,7 @@ refs 4
 kids 0
 OBJECT poly
 name "StdbyKnob2"
-texture "txt_knobs.rgb"
+texture "txt_knobs.png"
 texrep 1 1
 numvert 33
 0.0100000 -0.0078030 -0.0328030
@@ -1164,7 +1164,7 @@ refs 4
 kids 0
 OBJECT poly
 name "TFRbutton"
-texture "comm.rgb"
+texture "comm.png"
 texrep 1 1
 numvert 8
 0.0031930 0.0170390 -0.0048030
@@ -1215,7 +1215,7 @@ kids 0
 OBJECT poly
 name "VolumeKnob"
 loc 0.0043944 -0.0137900 0.0000000
-texture "txt_knobs.rgb"
+texture "txt_knobs.png"
 texrep 1 1
 numvert 33
 -0.0041212 0.0051970 0.0051970

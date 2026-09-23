@@ -684,7 +684,7 @@ OBJECT poly
 name "Case"
 data 10
 Circle.001
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 16
@@ -766,7 +766,7 @@ OBJECT poly
 name "Screws"
 data 12
 Cylinder.041
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 14
@@ -862,7 +862,7 @@ OBJECT poly
 name "AI.Ball"
 data 10
 Sphere.002
-texture "ai_ball.rgb"
+texture "ai_ball.png"
 texrep 1 1
 crease 30.000000
 numvert 104
@@ -1564,7 +1564,7 @@ OBJECT poly
 name "AI.BankIndex"
 data 5
 Plane
-texture "ai_ball.rgb"
+texture "ai_ball.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -1585,7 +1585,7 @@ OBJECT poly
 name "AI.BezelMask"
 data 6
 Circle
-texture "ai_bezel.rgb"
+texture "ai_bezel.png"
 texrep 1 1
 crease 30.000000
 numvert 48
@@ -1867,7 +1867,7 @@ OBJECT poly
 name "AI.Bar.Aircraft"
 data 9
 Plane.020
-texture "ai_bezel.rgb"
+texture "ai_bezel.png"
 texrep 1 1
 crease 30.000000
 numvert 36
@@ -2032,7 +2032,7 @@ OBJECT poly
 name "AI.Knob.Hor"
 data 12
 Cylinder.040
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 45.000000
 numvert 16

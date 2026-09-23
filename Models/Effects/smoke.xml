@@ -20,7 +20,7 @@
       <heading-deg> 0.000 </heading-deg>
     </offsets>
 
-    <texture>smoke.rgb</texture>
+    <texture>smoke.png</texture>
     <emissive>false</emissive>
     <lighting>false</lighting>
     <align>billboard</align>	<!-- billboard / fixed -->

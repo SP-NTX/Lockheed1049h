@@ -617,7 +617,7 @@ OBJECT poly
 name "Screws"
 data 12
 Cylinder.088
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 28
@@ -799,7 +799,7 @@ OBJECT poly
 name "MANPRESSeng.Face"
 data 12
 Cylinder.089
-texture "manpress.rgb"
+texture "manpress.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -866,7 +866,7 @@ OBJECT poly
 name "MANPRESSeng.Needle1"
 data 9
 Plane.053
-texture "manpress.rgb"
+texture "manpress.png"
 texrep 1 1
 crease 30.000000
 numvert 25
@@ -984,7 +984,7 @@ OBJECT poly
 name "MANPRESSeng.Needle2"
 data 9
 Plane.054
-texture "manpress.rgb"
+texture "manpress.png"
 texrep 1 1
 crease 30.000000
 numvert 25
@@ -1102,7 +1102,7 @@ OBJECT poly
 name "MANPRESSeng.Needle3"
 data 9
 Plane.055
-texture "manpress.rgb"
+texture "manpress.png"
 texrep 1 1
 crease 30.000000
 numvert 25
@@ -1220,7 +1220,7 @@ OBJECT poly
 name "MANPRESSeng.Needle4"
 data 9
 Plane.056
-texture "manpress.rgb"
+texture "manpress.png"
 texrep 1 1
 crease 30.000000
 numvert 25

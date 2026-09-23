@@ -617,7 +617,7 @@ OBJECT poly
 name "Screws"
 data 12
 Cylinder.058
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 28
@@ -799,7 +799,7 @@ OBJECT poly
 name "RMI.Face"
 data 12
 Cylinder.056
-texture "rmi.rgb"
+texture "rmi.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -866,7 +866,7 @@ OBJECT poly
 name "RMI.Needle1"
 data 9
 Plane.033
-texture "rmi_needles.rgb"
+texture "rmi_needles.png"
 texrep 1 1
 crease 30.000000
 numvert 23
@@ -968,7 +968,7 @@ OBJECT poly
 name "RMI.Needle2"
 data 9
 Plane.034
-texture "rmi_needles.rgb"
+texture "rmi_needles.png"
 texrep 1 1
 crease 30.000000
 numvert 15

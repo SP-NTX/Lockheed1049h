@@ -10,7 +10,7 @@ OBJECT poly
 name "Compass.Ball"
 data 10
 Sphere.004
-texture "compass_magnetic.rgb"
+texture "compass_magnetic.png"
 texrep 1 1
 crease 30.000000
 numvert 32
@@ -164,7 +164,7 @@ OBJECT poly
 name "Compass.Case"
 data 10
 Circle.005
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 24
@@ -280,7 +280,7 @@ OBJECT poly
 name "Compass.Index"
 data 9
 Plane.066
-texture "compass_magnetic.rgb"
+texture "compass_magnetic.png"
 texrep 1 1
 crease 30.000000
 numvert 4
@@ -301,7 +301,7 @@ OBJECT poly
 name "Bezel"
 data 12
 Cylinder.106
-texture "compass_magnetic_face.rgb"
+texture "compass_magnetic_face.png"
 texrep 1 1
 crease 30.000000
 numvert 48
@@ -609,7 +609,7 @@ OBJECT poly
 name "Screws"
 data 12
 Cylinder.105
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 28

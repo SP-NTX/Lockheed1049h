@@ -6,22 +6,22 @@
     <model>
       <livery>
         <name type="string">DLH</name>
-        <texture>txt_livery_fuselage_DLH.rgb</texture>
+        <texture>txt_livery_fuselage_DLH.png</texture>
       </livery>
       <cowls>
-        <texture>txt_livery_cowls_DLH.rgb</texture>
+        <texture>txt_livery_cowls_DLH.png</texture>
       </cowls>
       <rudders>
-        <texture>txt_livery_rudders_DLH.rgb</texture>
+        <texture>txt_livery_rudders_DLH.png</texture>
       </rudders>
       <wing>
-        <texture>txt_livery_wing.rgb</texture>
+        <texture>txt_livery_wing.png</texture>
       </wing>
       <propellers>
-        <texture>txt_livery_prop1_DLH.rgb</texture>
+        <texture>txt_livery_prop1_DLH.png</texture>
       </propellers>
       <propellerdisks>
-        <texture>txt_propblur_DLH.rgb</texture>
+        <texture>txt_propblur_DLH.png</texture>
       </propellerdisks>
     </model>
   </sim>

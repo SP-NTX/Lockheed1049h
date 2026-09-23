@@ -9,7 +9,7 @@ name "LampMasterFireOff"
 loc 0 0 0.068064
 data 14
 LampMasterFireOff
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000001
 numvert 24
@@ -126,7 +126,7 @@ name "LampMasterFireOn"
 loc 0 0 0.068064
 data 16
 LampMasterFireOn
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000001
 numvert 24
@@ -243,7 +243,7 @@ name "Placard.001"
 loc 0 0 -0
 data 11
 Placard.001
-texture "master_fire.rgb"
+texture "master_fire.png"
 texrep 1 1
 crease 30.000001
 numvert 4

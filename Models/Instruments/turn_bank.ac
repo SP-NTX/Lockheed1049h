@@ -617,7 +617,7 @@ OBJECT poly
 name "Screws"
 data 12
 Cylinder.001
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 28
@@ -799,7 +799,7 @@ OBJECT poly
 name "TB.Back"
 data 12
 Cylinder.094
-texture "turn_bank.rgb"
+texture "turn_bank.png"
 texrep 1 1
 crease 30.000000
 numvert 6
@@ -839,7 +839,7 @@ OBJECT poly
 name "TB.Ball"
 data 10
 Sphere.001
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 25
@@ -1030,7 +1030,7 @@ OBJECT poly
 name "TB.BallFrame"
 data 4
 Cube
-texture "turn_bank.rgb"
+texture "turn_bank.png"
 texrep 1 1
 crease 30.000000
 numvert 8
@@ -1076,7 +1076,7 @@ OBJECT poly
 name "TB.Ref"
 data 9
 Plane.061
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 8
@@ -1108,7 +1108,7 @@ OBJECT poly
 name "TB.Face"
 data 12
 Cylinder.095
-texture "turn_bank.rgb"
+texture "turn_bank.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -1175,7 +1175,7 @@ OBJECT poly
 name "TB.Needle"
 data 9
 Plane.062
-texture "turn_bank.rgb"
+texture "turn_bank.png"
 texrep 1 1
 crease 30.000000
 numvert 14

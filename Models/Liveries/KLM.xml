@@ -6,22 +6,22 @@
     <model>
       <livery>
         <name type="string">KLM</name>
-        <texture>txt_livery_klm_fuselage.rgb</texture>
+        <texture>txt_livery_klm_fuselage.png</texture>
       </livery>
       <cowls>
-        <texture>txt_livery_klm_cowls.rgb</texture>
+        <texture>txt_livery_klm_cowls.png</texture>
       </cowls>
       <wing>
-        <texture>txt_livery_wing.rgb</texture>
+        <texture>txt_livery_wing.png</texture>
       </wing>
       <rudders>
-        <texture>txt_livery_klm_rudders.rgb</texture>
+        <texture>txt_livery_klm_rudders.png</texture>
       </rudders>
       <propellers>
-        <texture>txt_livery_prop1_DLH.rgb</texture>
+        <texture>txt_livery_prop1_DLH.png</texture>
       </propellers>
       <propellerdisks>
-        <texture>txt_propblur_DLH.rgb</texture>
+        <texture>txt_propblur_DLH.png</texture>
       </propellerdisks>
     </model>
   </sim>

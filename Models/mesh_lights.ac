@@ -6891,7 +6891,7 @@ name "LightTailGlow"
 loc 0 0 -0
 data 13
 LightTailGlow
-texture "txt_lights_exterior.rgb"
+texture "txt_lights_exterior.png"
 texrep 1 1
 crease 30.000001
 numvert 20
@@ -6957,7 +6957,7 @@ name "LightTaxiGlowH"
 loc -37.756668 -2.724402 -0
 data 14
 LightTaxiGlowH
-texture "txt_lights_exterior.rgb"
+texture "txt_lights_exterior.png"
 texrep 1 1
 crease 30.000001
 numvert 20
@@ -7023,7 +7023,7 @@ name "LightTaxiGlowH.001"
 loc -23.885317 -1.287711 -11.6781385
 data 18
 LightTaxiGlowH.001
-texture "txt_lights_exterior.rgb"
+texture "txt_lights_exterior.png"
 texrep 1 1
 crease 30.000001
 numvert 20
@@ -7089,7 +7089,7 @@ name "LightTaxiGlowH.002"
 loc -23.885317 -1.287711 11.6781385
 data 18
 LightTaxiGlowH.002
-texture "txt_lights_exterior.rgb"
+texture "txt_lights_exterior.png"
 texrep 1 1
 crease 30.000001
 numvert 20

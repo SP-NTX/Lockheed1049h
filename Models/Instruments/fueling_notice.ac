@@ -7,7 +7,7 @@ OBJECT poly
 name "FuelingNotice"
 data 9
 Plane.005
-texture "fueling_notice.rgb"
+texture "fueling_notice.png"
 texrep 1 1
 crease 30.000000
 numvert 4

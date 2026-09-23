@@ -9,7 +9,7 @@ OBJECT poly
 name "LampAP"
 data 8
 Tube.011
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -117,7 +117,7 @@ OBJECT poly
 name "LampAPOn"
 data 8
 Tube.003
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -225,7 +225,7 @@ OBJECT poly
 name "Placard"
 data 9
 Plane.006
-texture "autopilot_warn.rgb"
+texture "autopilot_warn.png"
 texrep 1 1
 crease 30.000000
 numvert 4

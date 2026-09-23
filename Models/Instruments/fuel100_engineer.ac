@@ -617,7 +617,7 @@ OBJECT poly
 name "Screws"
 data 12
 Cylinder.111
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 28
@@ -799,7 +799,7 @@ OBJECT poly
 name "Fuel100.Face"
 data 12
 Cylinder.109
-texture "fuel100.rgb"
+texture "fuel100.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -866,7 +866,7 @@ OBJECT poly
 name "Fuel100.Needle"
 data 9
 Plane.068
-texture "fuel100.rgb"
+texture "fuel100.png"
 texrep 1 1
 crease 30.000000
 numvert 17

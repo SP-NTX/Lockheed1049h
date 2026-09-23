@@ -10,7 +10,7 @@ OBJECT poly
 name "Screws"
 data 12
 Cylinder.088
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 28
@@ -800,7 +800,7 @@ OBJECT poly
 name "AmpsDC.Face"
 data 8
 Cylinder
-texture "amps_dc_face.rgb"
+texture "amps_dc_face.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -867,7 +867,7 @@ OBJECT poly
 name "AmpsDC.FaceBack"
 data 12
 Cylinder.089
-texture "amps_dc.rgb"
+texture "amps_dc.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -934,7 +934,7 @@ OBJECT poly
 name "AmpsDC.Needle1"
 data 9
 Plane.044
-texture "amps_dc.rgb"
+texture "amps_dc.png"
 texrep 1 1
 crease 30.000000
 numvert 5
@@ -962,7 +962,7 @@ OBJECT poly
 name "AmpsDC.Needle2"
 data 5
 Plane
-texture "amps_dc.rgb"
+texture "amps_dc.png"
 texrep 1 1
 crease 30.000000
 numvert 5

@@ -617,7 +617,7 @@ OBJECT poly
 name "FF.Face"
 data 12
 Cylinder.092
-texture "fuelflow2.rgb"
+texture "fuelflow2.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -684,7 +684,7 @@ OBJECT poly
 name "FF.Needle1"
 data 9
 Plane.057
-texture "rpm.rgb"
+texture "rpm.png"
 texrep 1 1
 crease 30.000000
 numvert 25
@@ -802,7 +802,7 @@ OBJECT poly
 name "FF.Needle2"
 data 9
 Plane.058
-texture "rpm.rgb"
+texture "rpm.png"
 texrep 1 1
 crease 30.000000
 numvert 25
@@ -920,7 +920,7 @@ OBJECT poly
 name "FF.Needle3"
 data 9
 Plane.059
-texture "rpm.rgb"
+texture "rpm.png"
 texrep 1 1
 crease 30.000000
 numvert 25
@@ -1038,7 +1038,7 @@ OBJECT poly
 name "FF.Needle4"
 data 9
 Plane.060
-texture "rpm.rgb"
+texture "rpm.png"
 texrep 1 1
 crease 30.000000
 numvert 25
@@ -1156,7 +1156,7 @@ OBJECT poly
 name "Screws"
 data 12
 Cylinder.088
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 28

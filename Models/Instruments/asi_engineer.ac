@@ -617,7 +617,7 @@ OBJECT poly
 name "Screws"
 data 12
 Cylinder.077
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 28
@@ -799,7 +799,7 @@ OBJECT poly
 name "ASIeng.Face"
 data 12
 Cylinder.078
-texture "asi.rgb"
+texture "asi.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -866,7 +866,7 @@ OBJECT poly
 name "ASIeng.Needle"
 data 9
 Plane.045
-texture "asi.rgb"
+texture "asi.png"
 texrep 1 1
 crease 30.000000
 numvert 17

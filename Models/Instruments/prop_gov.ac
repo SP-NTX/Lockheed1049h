@@ -9,7 +9,7 @@ OBJECT poly
 name "LampPropGov1"
 data 8
 Tube.013
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -117,7 +117,7 @@ OBJECT poly
 name "LampPropGov2"
 data 8
 Tube.014
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -225,7 +225,7 @@ OBJECT poly
 name "LampPropGov3"
 data 8
 Tube.006
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -333,7 +333,7 @@ OBJECT poly
 name "LampPropGov4"
 data 8
 Tube.007
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -441,7 +441,7 @@ OBJECT poly
 name "LampPropGovOn1"
 data 8
 Tube.013
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -549,7 +549,7 @@ OBJECT poly
 name "LampPropGovOn2"
 data 8
 Tube.014
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -657,7 +657,7 @@ OBJECT poly
 name "LampPropGovOn3"
 data 8
 Tube.006
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -765,7 +765,7 @@ OBJECT poly
 name "LampPropGovOn4"
 data 8
 Tube.007
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -873,7 +873,7 @@ OBJECT poly
 name "Placard"
 data 4
 Cube
-texture "prop_gov.rgb"
+texture "prop_gov.png"
 texrep 1 1
 crease 30.000000
 numvert 4

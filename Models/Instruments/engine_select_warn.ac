@@ -8,7 +8,7 @@ OBJECT poly
 name "LampSSWarn"
 data 8
 Tube.036
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -116,7 +116,7 @@ OBJECT poly
 name "LampSSWarnOn"
 data 8
 Tube.040
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16

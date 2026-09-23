@@ -617,7 +617,7 @@ OBJECT poly
 name "Screws"
 data 12
 Cylinder.014
-texture "textures_gauge_support.rgb"
+texture "textures_gauge_support.png"
 texrep 1 1
 crease 30.000000
 numvert 28
@@ -799,7 +799,7 @@ OBJECT poly
 name "VSI.Face"
 data 12
 Cylinder.009
-texture "vsi.rgb"
+texture "vsi.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -866,7 +866,7 @@ OBJECT poly
 name "VSI.Needle"
 data 9
 Plane.010
-texture "vsi.rgb"
+texture "vsi.png"
 texrep 1 1
 crease 30.000000
 numvert 17

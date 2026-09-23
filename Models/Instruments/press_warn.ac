@@ -9,7 +9,7 @@ OBJECT poly
 name "LampPressFail1"
 data 8
 Tube.013
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -117,7 +117,7 @@ OBJECT poly
 name "LampPressFail2"
 data 8
 Tube.014
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -225,7 +225,7 @@ OBJECT poly
 name "LampPressFail3"
 data 8
 Tube.006
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -333,7 +333,7 @@ OBJECT poly
 name "LampPressFail4"
 data 8
 Tube.007
-texture "textures_lamps_off.rgb"
+texture "textures_lamps_off.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -441,7 +441,7 @@ OBJECT poly
 name "LampPressFailOn1"
 data 8
 Tube.013
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -549,7 +549,7 @@ OBJECT poly
 name "LampPressFailOn2"
 data 8
 Tube.014
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -657,7 +657,7 @@ OBJECT poly
 name "LampPressFailOn3"
 data 8
 Tube.006
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -765,7 +765,7 @@ OBJECT poly
 name "LampPressFailOn4"
 data 8
 Tube.007
-texture "textures_lamps_on.rgb"
+texture "textures_lamps_on.png"
 texrep 1 1
 crease 45.000000
 numvert 16
@@ -873,7 +873,7 @@ OBJECT poly
 name "Placard"
 data 4
 Cube
-texture "press_warn.rgb"
+texture "press_warn.png"
 texrep 1 1
 crease 30.000000
 numvert 4

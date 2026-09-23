@@ -14,7 +14,7 @@ OBJECT poly
 name "AileronL"
 data 8
 Cube.182
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 36
@@ -323,7 +323,7 @@ OBJECT poly
 name "AileronR"
 data 8
 Cube.189
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 36
@@ -632,7 +632,7 @@ OBJECT poly
 name "AileronTrimL"
 data 8
 Cube.181
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 14
@@ -745,7 +745,7 @@ OBJECT poly
 name "AileronTrimR"
 data 8
 Cube.190
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 14
@@ -858,7 +858,7 @@ OBJECT poly
 name "CabinWindowBox"
 data 8
 Mesh.006
-texture "txt_cabin_window.rgb"
+texture "txt_cabin_window.png"
 texrep 1 1
 crease 30.000000
 numvert 672
@@ -4872,7 +4872,7 @@ OBJECT poly
 name "CowlFlap1L"
 data 12
 Cylinder.002
-texture "txt_livery_cowls.rgb"
+texture "txt_livery_cowls.png"
 texrep 1 1
 crease 30.000000
 numvert 36
@@ -5161,7 +5161,7 @@ OBJECT poly
 name "CowlFlap1R"
 data 8
 Cylinder
-texture "txt_livery_cowls.rgb"
+texture "txt_livery_cowls.png"
 texrep 1 1
 crease 30.000000
 numvert 36
@@ -5450,7 +5450,7 @@ OBJECT poly
 name "CowlFlap2L"
 data 12
 Cylinder.003
-texture "txt_livery_cowls.rgb"
+texture "txt_livery_cowls.png"
 texrep 1 1
 crease 30.000000
 numvert 36
@@ -5739,7 +5739,7 @@ OBJECT poly
 name "CowlFlap2R"
 data 12
 Cylinder.005
-texture "txt_livery_cowls.rgb"
+texture "txt_livery_cowls.png"
 texrep 1 1
 crease 30.000000
 numvert 36
@@ -6028,7 +6028,7 @@ OBJECT poly
 name "CowlFlap3L"
 data 12
 Cylinder.015
-texture "txt_livery_cowls.rgb"
+texture "txt_livery_cowls.png"
 texrep 1 1
 crease 30.000000
 numvert 36
@@ -6317,7 +6317,7 @@ OBJECT poly
 name "CowlFlap3R"
 data 12
 Cylinder.009
-texture "txt_livery_cowls.rgb"
+texture "txt_livery_cowls.png"
 texrep 1 1
 crease 30.000000
 numvert 36
@@ -6606,7 +6606,7 @@ OBJECT poly
 name "CowlFlap4L"
 data 12
 Cylinder.017
-texture "txt_livery_cowls.rgb"
+texture "txt_livery_cowls.png"
 texrep 1 1
 crease 30.000000
 numvert 36
@@ -6895,7 +6895,7 @@ OBJECT poly
 name "CowlFlap4R"
 data 12
 Cylinder.016
-texture "txt_livery_cowls.rgb"
+texture "txt_livery_cowls.png"
 texrep 1 1
 crease 30.000000
 numvert 36
@@ -7184,7 +7184,7 @@ OBJECT poly
 name "DoorCrewExt"
 data 10
 Mesh.11299
-texture "txt_livery_fuselage.rgb"
+texture "txt_livery_fuselage.png"
 texrep 1 1
 crease 30.000000
 numvert 36
@@ -7386,7 +7386,7 @@ OBJECT poly
 name "DoorCrewFrame"
 data 10
 Mesh.11292
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 30.000000
 numvert 60
@@ -7676,7 +7676,7 @@ OBJECT poly
 name "DoorCrewFrameWin"
 data 10
 Mesh.11297
-texture "txt_flightdeck_4.rgb"
+texture "txt_flightdeck_4.png"
 texrep 1 1
 crease 30.000000
 numvert 18
@@ -7772,7 +7772,7 @@ OBJECT poly
 name "DoorCrewInt"
 data 10
 Mesh.11296
-texture "txt_flightdeck_1.rgb"
+texture "txt_flightdeck_1.png"
 texrep 1 1
 crease 30.000000
 numvert 30
@@ -7969,7 +7969,7 @@ OBJECT poly
 name "Elevator"
 data 8
 Cube.196
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 48
@@ -8375,7 +8375,7 @@ OBJECT poly
 name "ElevatorTrim"
 data 8
 Cube.195
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 24
@@ -8549,7 +8549,7 @@ OBJECT poly
 name "EngCowls"
 data 12
 Cylinder.485
-texture "txt_livery_cowls.rgb"
+texture "txt_livery_cowls.png"
 texrep 1 1
 crease 45.000000
 numvert 1240
@@ -18403,7 +18403,7 @@ OBJECT poly
 name "EngExhausts"
 data 12
 Cylinder.273
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 45.000000
 numvert 384
@@ -21065,7 +21065,7 @@ OBJECT poly
 name "EngOilCoolers"
 data 12
 Cylinder.271
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 45.000000
 numvert 558
@@ -25717,7 +25717,7 @@ OBJECT poly
 name "EngineFaces"
 data 12
 Cylinder.269
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 30.000000
 numvert 36
@@ -25955,7 +25955,7 @@ OBJECT poly
 name "FlapWell"
 data 8
 Cube.119
-texture "txt_flapwells.rgb"
+texture "txt_flapwells.png"
 texrep 1 1
 crease 30.000000
 numvert 40
@@ -26261,7 +26261,7 @@ OBJECT poly
 name "FlapsInner"
 data 8
 Cube.198
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 32
@@ -26539,7 +26539,7 @@ OBJECT poly
 name "FlapsOuterL"
 data 8
 Cube.017
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 44
@@ -26879,7 +26879,7 @@ OBJECT poly
 name "FlapsOuterR"
 data 8
 Cube.200
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 44
@@ -27219,7 +27219,7 @@ OBJECT poly
 name "Fuselage"
 data 8
 Mesh.019
-texture "txt_livery_fuselage.rgb"
+texture "txt_livery_fuselage.png"
 texrep 1 1
 crease 30.000000
 numvert 1428
@@ -38177,7 +38177,7 @@ OBJECT poly
 name "GearWellNose"
 data 10
 Mesh.11243
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 30.000000
 numvert 38
@@ -38415,7 +38415,7 @@ OBJECT poly
 name "GearWells"
 data 12
 Cylinder.421
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 30.000000
 numvert 76
@@ -40256,7 +40256,7 @@ OBJECT poly
 name "LGNDoorFA"
 data 8
 Mesh.017
-texture "txt_livery_fuselage.rgb"
+texture "txt_livery_fuselage.png"
 texrep 1 1
 crease 30.000000
 numvert 22
@@ -40438,7 +40438,7 @@ OBJECT poly
 name "LGNDoorFF"
 data 8
 Mesh.023
-texture "txt_livery_fuselage.rgb"
+texture "txt_livery_fuselage.png"
 texrep 1 1
 crease 30.000000
 numvert 30
@@ -40674,7 +40674,7 @@ OBJECT poly
 name "LGNDoorL"
 data 4
 Mesh
-texture "txt_livery_fuselage.rgb"
+texture "txt_livery_fuselage.png"
 texrep 1 1
 crease 30.000000
 numvert 18
@@ -40824,7 +40824,7 @@ OBJECT poly
 name "LGNDoorR"
 data 8
 Mesh.028
-texture "txt_livery_fuselage.rgb"
+texture "txt_livery_fuselage.png"
 texrep 1 1
 crease 30.000000
 numvert 18
@@ -40974,7 +40974,7 @@ OBJECT poly
 name "LGmainDragStrutL"
 data 8
 Tube.015
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 80.000000
 numvert 32
@@ -41154,7 +41154,7 @@ OBJECT poly
 name "LGmainDragStrutR"
 data 8
 Tube.034
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 80.000000
 numvert 32
@@ -41334,7 +41334,7 @@ OBJECT poly
 name "LGmainLDoorAL"
 data 12
 Cylinder.008
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 36
@@ -41618,7 +41618,7 @@ OBJECT poly
 name "LGmainLDoorAR"
 data 12
 Cylinder.026
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 36
@@ -41902,7 +41902,7 @@ OBJECT poly
 name "LGmainLDoorFL"
 data 12
 Cylinder.007
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 24
@@ -42090,7 +42090,7 @@ OBJECT poly
 name "LGmainLDoorFR"
 data 12
 Cylinder.021
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 24
@@ -42278,7 +42278,7 @@ OBJECT poly
 name "LGmainLL"
 data 8
 Tube.007
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 80.000000
 numvert 48
@@ -42504,7 +42504,7 @@ OBJECT poly
 name "LGmainLR"
 data 8
 Tube.087
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 80.000000
 numvert 48
@@ -42730,7 +42730,7 @@ OBJECT poly
 name "LGmainRDoorAL"
 data 12
 Cylinder.027
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 36
@@ -43014,7 +43014,7 @@ OBJECT poly
 name "LGmainRDoorAR"
 data 12
 Cylinder.030
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 36
@@ -43298,7 +43298,7 @@ OBJECT poly
 name "LGmainRDoorFL"
 data 12
 Cylinder.028
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 24
@@ -43486,7 +43486,7 @@ OBJECT poly
 name "LGmainRDoorFR"
 data 12
 Cylinder.029
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 24
@@ -43674,7 +43674,7 @@ OBJECT poly
 name "LGmainRimL"
 data 12
 Cylinder.031
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 30.000000
 numvert 64
@@ -43972,7 +43972,7 @@ OBJECT poly
 name "LGmainRimR"
 data 12
 Cylinder.477
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 30.000000
 numvert 64
@@ -44270,7 +44270,7 @@ OBJECT poly
 name "LGmainTiresL"
 data 12
 Cylinder.011
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 45.000000
 numvert 260
@@ -46268,7 +46268,7 @@ OBJECT poly
 name "LGmainTiresR"
 data 12
 Cylinder.478
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 45.000000
 numvert 260
@@ -48266,7 +48266,7 @@ OBJECT poly
 name "LGmainTorqueBarLL"
 data 8
 Tube.009
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 45.000000
 numvert 31
@@ -48455,7 +48455,7 @@ OBJECT poly
 name "LGmainTorqueBarLR"
 data 8
 Tube.086
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 45.000000
 numvert 31
@@ -48644,7 +48644,7 @@ OBJECT poly
 name "LGmainTorqueBarUL"
 data 8
 Tube.012
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 45.000000
 numvert 30
@@ -48822,7 +48822,7 @@ OBJECT poly
 name "LGmainTorqueBarUR"
 data 8
 Tube.085
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 45.000000
 numvert 30
@@ -49000,7 +49000,7 @@ OBJECT poly
 name "LGmainUL"
 data 8
 Tube.014
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 80.000000
 numvert 136
@@ -49736,7 +49736,7 @@ OBJECT poly
 name "LGmainUR"
 data 8
 Tube.084
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 80.000000
 numvert 136
@@ -50472,7 +50472,7 @@ OBJECT poly
 name "LGnoseDragStrutL"
 data 8
 Tube.032
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 45.000000
 numvert 56
@@ -50832,7 +50832,7 @@ OBJECT poly
 name "LGnoseDragStrutU"
 data 8
 Tube.031
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 45.000000
 numvert 40
@@ -51036,7 +51036,7 @@ OBJECT poly
 name "LGnoseHubL"
 data 12
 Cylinder.252
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 30.000000
 numvert 17
@@ -51159,7 +51159,7 @@ OBJECT poly
 name "LGnoseHubR"
 data 12
 Cylinder.256
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 30.000000
 numvert 17
@@ -51282,7 +51282,7 @@ OBJECT poly
 name "LGnoseL"
 data 8
 Tube.023
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 80.000000
 numvert 57
@@ -51615,7 +51615,7 @@ OBJECT poly
 name "LGnoseTires"
 data 12
 Cylinder.248
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 45.000000
 numvert 258
@@ -53643,7 +53643,7 @@ OBJECT poly
 name "LGnoseTorqueBarL"
 data 8
 Tube.025
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 45.000000
 numvert 30
@@ -53821,7 +53821,7 @@ OBJECT poly
 name "LGnoseTorqueBarU"
 data 8
 Tube.028
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 45.000000
 numvert 30
@@ -53999,7 +53999,7 @@ OBJECT poly
 name "LGnoseU"
 data 8
 Tube.016
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 80.000000
 numvert 215
@@ -55290,7 +55290,7 @@ OBJECT poly
 name "LightLandingL"
 data 10
 Circle.007
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 30.000000
 numvert 10
@@ -55406,7 +55406,7 @@ OBJECT poly
 name "LightLandingR"
 data 10
 Circle.006
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 30.000000
 numvert 10
@@ -55522,7 +55522,7 @@ OBJECT poly
 name "LightTaxi"
 data 10
 Circle.004
-texture "txt_exterior.rgb"
+texture "txt_exterior.png"
 texrep 1 1
 crease 30.000000
 numvert 9
@@ -55589,7 +55589,7 @@ OBJECT poly
 name "PropShafts"
 data 8
 Mesh.031
-texture "txt_livery_cowls.rgb"
+texture "txt_livery_cowls.png"
 texrep 1 1
 crease 80.000000
 numvert 212
@@ -56995,7 +56995,7 @@ OBJECT poly
 name "RudderC"
 data 10
 Mesh.11338
-texture "txt_livery_rudders.rgb"
+texture "txt_livery_rudders.png"
 texrep 1 1
 crease 30.000000
 numvert 59
@@ -57563,7 +57563,7 @@ OBJECT poly
 name "RudderL"
 data 10
 Mesh.11339
-texture "txt_livery_rudders.rgb"
+texture "txt_livery_rudders.png"
 texrep 1 1
 crease 30.000000
 numvert 96
@@ -58453,7 +58453,7 @@ OBJECT poly
 name "RudderR"
 data 10
 Mesh.11342
-texture "txt_livery_rudders.rgb"
+texture "txt_livery_rudders.png"
 texrep 1 1
 crease 30.000000
 numvert 96
@@ -59343,7 +59343,7 @@ OBJECT poly
 name "RudderTrimL"
 data 10
 Mesh.11340
-texture "txt_livery_rudders.rgb"
+texture "txt_livery_rudders.png"
 texrep 1 1
 crease 30.000000
 numvert 22
@@ -59525,7 +59525,7 @@ OBJECT poly
 name "RudderTrimR"
 data 10
 Mesh.11333
-texture "txt_livery_rudders.rgb"
+texture "txt_livery_rudders.png"
 texrep 1 1
 crease 30.000000
 numvert 24
@@ -59714,7 +59714,7 @@ OBJECT poly
 name "Stabilizer"
 data 8
 Cube.193
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 166
@@ -61218,7 +61218,7 @@ OBJECT poly
 name "Vstabs"
 data 10
 Mesh.11337
-texture "txt_livery_rudders.rgb"
+texture "txt_livery_rudders.png"
 texrep 1 1
 crease 30.000000
 numvert 623
@@ -66271,7 +66271,7 @@ OBJECT poly
 name "Wing"
 data 8
 Cube.009
-texture "txt_livery_wing.rgb"
+texture "txt_livery_wing.png"
 texrep 1 1
 crease 30.000000
 numvert 1154

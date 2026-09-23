@@ -7,7 +7,7 @@ OBJECT poly
 name "plug_3"
 data 12
 Cylinder.433
-texture "plug_3.rgb"
+texture "plug_3.png"
 texrep 1 1
 crease 45.000000
 numvert 8

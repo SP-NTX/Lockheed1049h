@@ -37,7 +37,7 @@
     <object-name>Prop4</object-name>
     <property-base>sim/model/propellers</property-base>
     <texture-prop>texture</texture-prop>
-    <texture>txt_livery_prop1.rgb</texture>
+    <texture>txt_livery_prop1.png</texture>
   </animation>
   <animation>
     <type>material</type>
@@ -51,7 +51,7 @@
     <object-name>PropBlurFast4</object-name>
     <property-base>sim/model/propellerdisks</property-base>
     <texture-prop>texture</texture-prop>
-    <texture>txt_propblur.rgb</texture>
+    <texture>txt_propblur.png</texture>
   </animation>
 
   <!-- working for Rembrandt -->
